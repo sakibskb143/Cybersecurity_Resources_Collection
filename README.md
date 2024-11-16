@@ -80,7 +80,21 @@ Found an amazing resource not listed here? Open an issue or submit a pull reques
 💡 **Pro Tip**: Bookmark this repo and share it with your network. Together, let’s make the internet a safer place. 🌐
 
 --- 
+### 🙌 Deep ML Challenges
+Explore AI and Machine Learning challenges on Deep ML, a platform similar to LeetCode but dedicated to solving problems in AI and ML.
 
+🔗 URL
+Visit: https://www.deep-ml.com/?page=4&difficulty=&category=&solved=
+
+🧠 Features
+AI/ML Focus: Specialized challenges tailored for AI/ML enthusiasts.
+Difficulty Levels: Problems categorized by difficulty, allowing progression from beginner to advanced.
+Variety of Topics: Covers a range of topics including supervised learning, unsupervised learning, deep learning, reinforcement learning, and more.
+Track Progress: Easily track problems solved and your learning journey.
+📚 How to Use
+Explore Problems: Navigate through different pages and filter problems based on difficulty or category.
+Solve Challenges: Work on problems directly on the platform and submit your solutions.
+Learn and Grow: Deepen your understanding of AI and ML concepts by solving real-world problems.
 ### 📬 **Feedback & Suggestions**  
 If you have any feedback, drop a message in the Discussions tab. Let’s keep learning and growing!  
 
